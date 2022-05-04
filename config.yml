@@ -1,0 +1,18 @@
+baseURL: ""
+languageCode: fr-Fr
+title: The Forge Blog 🚀
+theme: PaperMod
+menu:
+  main:
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 1
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 2
+    - identifier: example
+      name: About
+      url: https://example.org
+      weight: 3
